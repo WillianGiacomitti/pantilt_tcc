@@ -10,7 +10,7 @@ Trabalho de Conclusão de Curso · Engenharia Mecatrônica · UTFPR · 2026
 
 <a href="https://www.utfpr.edu.br/"><img src="assets/logo_utfpr.png" alt="UTFPR" height="80"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="assets/logo_napi.png" alt="NAPI Robótica" height="80"></a>
+<a href="#"><img src="assets/logo_napi.jpg" alt="NAPI Robótica" height="80"></a>
 
 <br><br>
 
