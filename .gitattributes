@@ -1,0 +1,12 @@
+*.md text eol=lf
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.step binary
+*.STEP binary
+*.stl binary
+*.STL binary
+*.3mf binary
+*.3MF binary
+*.DXF binary
+*.pdf binary

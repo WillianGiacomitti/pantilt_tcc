@@ -1,0 +1,16 @@
+[submodule "02_software/pantilt_dataset"]
+	path = 02_software/pantilt_dataset
+	url = https://github.com/WillianGiacomitti/pantilt_dataset.git
+	branch = main
+[submodule "02_software/pantilt_dockerfile"]
+	path = 02_software/pantilt_dockerfile
+	url = https://github.com/WillianGiacomitti/pantilt_dockerfile.git
+	branch = master
+[submodule "02_software/pantilt_firmware"]
+	path = 02_software/pantilt_firmware
+	url = https://github.com/WillianGiacomitti/pantilt_firmware.git
+	branch = main
+[submodule "02_software/pantilt_ros"]
+	path = 02_software/pantilt_ros
+	url = https://github.com/WillianGiacomitti/pantilt_ros.git
+	branch = master

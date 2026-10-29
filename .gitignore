@@ -1,0 +1,12 @@
+# Instruções locais do Claude Code
+CLAUDE.md
+
+# SolidWorks: arquivos de lock e backup
+~$*
+*.SLDBAK
+*.bak
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
